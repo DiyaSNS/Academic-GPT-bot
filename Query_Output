@@ -1,0 +1,110 @@
+query="What are the academic probation rules for UG students at IIT Bombay?"
+response=model.generate_content(query)
+print(response.text)
+
+output -
+Of course. Here is a detailed breakdown of the academic probation rules for undergraduate (UG) students at the Indian Institute of Technology Bombay (IIT Bombay).
+
+***
+
+### **Disclaimer: The Ultimate Authority**
+
+First and foremost, the official **UG Rules and Regulations handbook**, published by the Dean of Academic Programmes (Dean AP), is the definitive source. Rules can be updated, so you should **always refer to the latest version** available on the IIT Bombay Academic Office website. What follows is a comprehensive summary based on the publicly available rules.
+
+**You can usually find the official rulebook here:** [IIT Bombay Academic Office - Rules & Regulations](http://www.iitb.ac.in/newacadhome/rules.jsp)
+
+---
+
+### **Key Concepts You Must Understand**
+
+To understand the probation rules, you need to know these terms:
+
+*   **SPI (Semester Performance Index):** Your grade point average for a single semester. It's calculated based on the grades you get in the courses of that semester.
+*   **CPI (Cumulative Performance Index):** Your overall grade point average for all semesters completed so far. This is the most important metric for academic standing.
+*   **Academic Probation:** A formal warning status given to a student whose CPI falls below a certain minimum required level. It signals that you are at risk of being terminated from the program if your performance does not improve.
+*   **Termination of Registration:** The most severe outcome, where a student is removed from the academic program due to poor performance.
+
+---
+
+### **The Core Rules: Academic Performance Requirement (APR)**
+
+IIT Bombay's rules for continuing your studies are called the Academic Performance Requirement (APR). A student must satisfy these requirements at the end of each semester. Failure to do so leads to Academic Probation or Termination.
+
+Here is a typical breakdown of the rules semester-by-semester:
+
+#### **1. At the end of the 1st Semester:**
+
+*   **Requirement:** You must have a **CPI of 5.0 or higher**.
+*   **If your CPI is less than 5.0:** You will be placed on **Academic Probation**.
+
+#### **2. At the end of the 2nd Semester (End of the First Year):**
+
+This is the most critical checkpoint for first-year students.
+
+*   **Requirement:** You must have a **CPI of 5.0 or higher**.
+*   **If your CPI is less than 5.0:** Your registration will be **terminated**. This is a strict rule at the end of the first year.
+
+#### **3. At the end of any Subsequent Semester (3rd, 4th, 5th, etc.):**
+
+*   **Requirement:** You must maintain a **CPI of 5.0 or higher**.
+*   **If your CPI falls below 5.0:** You will be placed on **Academic Probation**.
+
+#### **4. The "Two Consecutive Semesters on Probation" Rule:**
+
+This is a crucial rule that many students overlook.
+
+*   **Rule:** If a student is on Academic Probation for **two consecutive semesters**, their registration will be **terminated**.
+*   **Example:**
+    *   A student's CPI at the end of the 3rd semester is 4.8. They are placed on Academic Probation.
+    *   They work hard in the 4th semester, but their CPI only rises to 4.9.
+    *   Since their CPI is still below 5.0, they are on probation for a second consecutive semester. This will lead to the termination of their registration.
+
+---
+
+### **What Happens When You Are on Academic Probation?**
+
+Being on Academic Probation is a serious warning. The institute imposes certain restrictions and provides support to help you improve:
+
+1.  **Formal Warning:** You receive an official notification from the Academic Office.
+2.  **Meeting with Faculty Advisor (FA):** You are required to meet regularly with your assigned Faculty Advisor to discuss your academic difficulties, plan your studies, and monitor your progress.
+3.  **Restrictions on Activities:** You are generally barred from holding any "position of responsibility." This includes:
+    *   Being a coordinator or manager for any gymkhana body, club, or tech team.
+    *   Holding a position in the Hostel Council or Institute Student Council.
+    *   Representing the institute in official events (this may vary).
+4.  **Credit Limit:** Your Faculty Advisor may advise or enforce a lower-than-usual credit limit for the next semester to allow you to focus on fewer courses and clear any backlogs.
+5.  **The Goal:** The primary goal is to **raise your CPI to 5.0 or above** in the following semester to get off probation.
+
+---
+
+### **Termination of Registration**
+
+Termination is the cessation of a student's program at IIT Bombay. It can be triggered by:
+
+1.  **First-Year Performance:** Having a CPI below 5.0 at the end of the second semester.
+2.  **Consecutive Probation:** Being on Academic Probation for two consecutive semesters.
+3.  **Exceeding Maximum Duration:** Failing to complete the degree requirements within the maximum allowed period (e.g., 6 years for a 4-year B.Tech. program).
+4.  **Excessive Backlogs (F Grades):** While not a direct probation rule, accumulating too many 'F' grades can make it mathematically impossible to raise your CPI, eventually leading to termination.
+
+There is an appeals process where a student facing termination can appeal to the Senate, but a successful appeal is not guaranteed and requires demonstrating exceptional circumstances.
+
+---
+
+### **Support Systems and Other Options**
+
+If you are struggling academically, IIT Bombay has systems in place to help you.
+
+*   **Faculty Advisor (FA):** Your first and most important point of contact. Be honest with them about your struggles. They are there to guide you.
+*   **Student Counselors:** IIT Bombay has a professional Student Wellness Centre. If your academic issues are linked to stress, anxiety, or other personal problems, seeking their help is highly recommended and completely confidential.
+*   **Slow-Paced Programme:** Students who are finding it difficult to cope with the academic load can, upon recommendation from their FA, apply for a "Slow-Paced Programme." This allows them to register for fewer credits each semester and complete their degree over a longer period.
+
+### **Summary Table**
+
+| Situation                                     | Condition                                                              | Outcome                        |
+| --------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------ |
+| End of 1st Semester                           | CPI < 5.0                                                              | Placed on Academic Probation   |
+| End of 2nd Semester (End of 1st Year)         | CPI < 5.0                                                              | **Termination of Registration**  |
+| End of any subsequent semester                | CPI < 5.0                                                              | Placed on Academic Probation   |
+| On Probation for a semester                   | CPI at the end of the next semester is still < 5.0                     | **Termination of Registration**  |
+| **Any semester**                              | CPI ≥ 5.0                                                              | Good Standing                  |
+
+**Final Advice:** If you are an IIT Bombay student or a prospective one, take the CPI requirement seriously from day one. If you find yourself struggling, **seek help immediately** from your Faculty Advisor or the Student Wellness Centre. The system is designed to help you succeed, but you must be proactive.
